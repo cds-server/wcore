@@ -1,4 +1,4 @@
-wcore
-=====
+lib-wcore
+=========
 
-Web Core library
+Librería web para edcore
