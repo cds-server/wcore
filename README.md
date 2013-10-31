@@ -1,0 +1,4 @@
+wcore
+=====
+
+Web Core library
